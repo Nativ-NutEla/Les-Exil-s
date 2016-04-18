@@ -1,0 +1,8 @@
+# Configuration file
+
+general {
+    B:"Enable Extensive Log Messages [Debug Mode]"=false
+}
+
+# Plunt=4918
+shaped(4565 + 4565 + 4565 + 333 + 333 + 333 + 35 + 35 + 35)>(4918,1)

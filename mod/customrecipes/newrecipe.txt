@@ -1,0 +1,48 @@
+#Oak tfc to Oak V
+shaped(4260+4260+null/4260+4260+null/null+null+null)>(17,2)
+#Oak V to Oak tfc
+shaped(17+null+null/17+null+null/null+null+null)>(4260,2)
+#birch tfc to birch V
+shaped(4260,2+4260,2+null/4260,2+4260,2+null/null+null+null)>(17,2,2)
+#birch V to birch tfc
+shaped(17,2+null+null/17,2+null+null/null+null+null)>(4260,2,2)
+#chestnut tfc to jungle V
+shaped(4260,3+4260,3+null/4260,3+4260,3+null/null+null+null)>(17,2,3)
+#jungle V to chestnut tfc
+shaped(17,3+null+null/17,3+null+null/null+null+null)>(4260,2,3)
+#acacia tfc to acacia V
+shaped(4260,16+4260,16+null/4260,16+4260,16+null/null+null+null)>(162,2)
+#acacia V to acacia tfc
+shaped(162+null+null/162+null+null/null+null+null)>(4260,2,16)
+#hickory tfc to darkoak V
+shaped(4260,5+4260,5+null/4260,5+4260,5+null/null+null+null)>(162,2,1)
+#darkoak V to hickory tfc
+shaped(162,1+null+null/162,1+null+null/null+null+null)>(4260,2,5)
+#pin tfc to spruce V
+shaped(4260,8+4260,8+null/4260,8+4260,8+null/null+null+null)>(17,2,1)
+#spruce V to pin tfc
+shaped(17,1+null+null/17,1+null+null/null+null+null)>(4260,2,8)
+
+#coal V to coal TFC
+shapeless(263)>(4564)
+#coal TFC to coal V
+shapeless(4564)>(263)
+#Charcoal V to Charcoal TFC
+shapeless(263,1)>(4564,null,1)
+#Charoal TFC to Charcoal V
+shapeless(4564,1)>(263,null,1)
+
+#iron V to iron TFC
+shapeless(265)>(4121)
+#iron TFC to iron V
+shapeless(4121)>(265)
+
+#gold V to Gold TFC
+shapeless(266)>(4120)
+#gold TFC to Gold V
+shapeless(4120)>(266)
+
+#stick V to stick TFC
+shapeless(280)>(4565)
+#stick V to stick TFC
+shapeless(4565)>(280)

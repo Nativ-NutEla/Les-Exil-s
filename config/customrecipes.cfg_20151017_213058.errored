@@ -1,0 +1,7 @@
+# Configuration file
+
+general {
+    B:"Enable Extensive Log Messages [Debug Mode]"=false
+}
+
+shaped ( 4565 + 4565 + 333 + 333 + 333 + 35 + 35 + 35 ) > (4919,1)
